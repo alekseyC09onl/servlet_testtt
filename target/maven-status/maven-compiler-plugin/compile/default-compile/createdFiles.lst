@@ -1,0 +1,8 @@
+dao\dao.class
+entity\User.class
+util\PropertiesReader.class
+util\ConnectionManager.class
+dao\UserDAO.class
+dto\UserDTO.class
+service\UserService.class
+servlet\ServletUser.class
